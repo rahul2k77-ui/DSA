@@ -1,3 +1,10 @@
+/*
+Roman to Integer
+Given a string s representing a valid Roman numeral, convert it to an integer. Roman numerals use seven symbols: I (1), V (5), X (10), L (50), C (100), D (500), and M (1000). Usually, values are added from left to right (e.g., VII = 5 + 1 + 1 = 7). However, if a smaller symbol precedes a larger one, it is subtracted instead of added. This subtraction applies to exactly six cases: IV (4), IX (9), XL (40), XC (90), CD (400), and CM (900).
+Example: Input: s = "MCMXCIV" → Output: 1994
+Constraints: 1 <= s.length <= 15. s represents a valid integer in the range [1, 3999].
+*/
+
 #include <iostream>
 #include <string>
 #include <unordered_map>
