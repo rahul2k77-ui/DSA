@@ -28,4 +28,5 @@ int main() {
     std::cout << "\nInput: x = " << userInput << "\nOutput: " << result << "\n";
 
     return 0;
+    
 }
