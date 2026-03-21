@@ -1,6 +1,11 @@
 #include<iostream>
 #include<vector>
 
+/*
+Given an integer matrix grid, flip the square submatrix of size k starting at top-left index (x, y) vertically.
+Return the updated matrix after in-place reversing the order of its rows.
+*/
+
 using namespace std;
 
 class Solution {
