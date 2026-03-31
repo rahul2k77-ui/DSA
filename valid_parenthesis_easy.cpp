@@ -1,3 +1,12 @@
+/*
+Given a string s containing only the characters (, ), {, }, [, ], write a program to determine if the input string is valid.
+A string is valid if:
+
+-Every open bracket is closed by the same type of bracket.
+-Open brackets are closed in the correct order.
+-Every closing bracket has a corresponding open bracket.
+*/
+
 #include <iostream>
 #include <stack>
 #include <string>
