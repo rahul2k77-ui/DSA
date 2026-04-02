@@ -1,3 +1,11 @@
+/*
+Gemini said
+Write a C++ function to merge two sorted linked lists into one single sorted list by splicing the original nodes together based on their values. 
+Use a dummy node to simplify the head pointer logic and a traversal pointer to build the sequence by comparing elements from both lists. 
+Once one list is exhausted, attach the remaining tail of the other list and return the resulting head. 
+This operation should maintain linear time complexity and use constant extra space.
+*/
+
 #include <iostream>
 using namespace std;
 
