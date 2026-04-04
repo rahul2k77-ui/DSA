@@ -1,3 +1,12 @@
+/*
+Given array nums and integer val, remove all occurrences of val in-place.
+Return k = count of elements not equal to val.
+First k elements of nums must contain only elements != val.
+Order of elements may be changed. Remaining elements don't matter.
+Example: nums=[3,2,2,3], val=3 → k=2, nums=[2,2,_,_]
+Constraints: 0<=nums.length<=100, 0<=nums[i]<=50, 0<=val<=100
+*/
+
 #include <bits/stdc++.h>
 using namespace std;
 
