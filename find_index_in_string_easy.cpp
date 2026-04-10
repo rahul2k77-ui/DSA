@@ -1,3 +1,11 @@
+/*
+Given two strings, haystack and needle, 
+which consist entirely of lowercase English characters and have lengths between 1 and 10,000, 
+write a program to return the integer index of the first occurrence of needle within haystack,
+or return -1 if the needle string is not found.
+*/
+
+
 #include <iostream>
 #include <string>
 
