@@ -1,3 +1,9 @@
+/*
+Given a sorted array of distinct integers and a target value,
+devise an algorithm with $O(\log n)$ runtime complexity that returns the index of the target if it is found, 
+or otherwise returns the exact index where it should be inserted to maintain the array's ascending order.
+*/
+
 #include <iostream>
 #include <vector>
 
