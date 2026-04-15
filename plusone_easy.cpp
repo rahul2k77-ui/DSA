@@ -1,3 +1,9 @@
+/*
+You are given a large integer represented as an array of single digits, ordered from most significant to least significant. 
+The integer does not contain any leading zeros. 
+Increment the large integer by one and return the resulting array of digits, ensuring any carry-over from adding one is properly handled.
+*/
+
 #include <iostream>
 #include <vector>
 
