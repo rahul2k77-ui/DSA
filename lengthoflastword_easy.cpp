@@ -1,3 +1,11 @@
+/*
+Given a string s consisting of words and spaces, return the length of the last word in the string.
+A word is defined as a maximal substring consisting of non-space characters only.
+Your solution must properly account for and ignore any trailing spaces at the end of the string.
+Assume the input string will always contain at least one valid word.
+*/
+
+
 #include <iostream>
 #include <string>
 
