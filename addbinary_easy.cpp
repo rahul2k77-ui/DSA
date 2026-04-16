@@ -1,3 +1,10 @@
+/*
+Given two binary strings a and b, return their sum as a binary string.
+Example: Input: a = "1010", b = "1011" | Output: "10101"
+Constraints: The strings consist only of '0' and '1' characters and contain no leading zeros except for zero itself.
+*/
+
+
 #include <iostream>
 #include <string>
 #include <algorithm>
