@@ -1,3 +1,11 @@
+/*
+Given a non-negative integer x, return the square root of x rounded down to the nearest integer.
+The returned integer must be non-negative.
+You must not use any built-in exponent functions or operators (such as pow or sqrt).
+Your solution must be optimized to efficiently handle large inputs without causing integer overflow.
+*/
+
+
 #include <iostream>
 
 class Solution {
