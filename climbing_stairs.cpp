@@ -1,3 +1,10 @@
+/*
+You are climbing a staircase that requires exactly n steps to reach the top.
+Each time you make a move, you can choose to climb either 1 step or 2 steps.
+Write a program to calculate and return the total number of distinct ways you can climb to the very top.
+*/
+
+
 #include<iostream>
 
 class Solution {
