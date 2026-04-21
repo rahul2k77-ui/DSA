@@ -1,3 +1,14 @@
+/*
+Problem: Remove Duplicates from Sorted List
+
+Given the head of a sorted singly linked list, delete all duplicates so each element appears only once.
+Return the modified linked list sorted as well.
+
+Example 1: Input: head = [1, 1, 2] | Output: [1, 2]
+Example 2: Input: head = [1, 1, 2, 3, 3] | Output: [1, 2, 3]
+Constraint: The linked list is guaranteed to be sorted in ascending order.
+*/
+
 #include <iostream>
 #include <vector>
 
