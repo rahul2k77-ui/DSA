@@ -1,3 +1,11 @@
+/*
+You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and integers m and n representing the number of valid elements in each.
+Merge nums1 and nums2 into a single array sorted in non-decreasing order.
+The final sorted array must not be returned but stored directly inside nums1.
+To accommodate this, nums1 has a total length of m + n.
+The first m elements are valid, and the last n elements are set to 0 and should be ignored.
+*/
+
 #include <iostream>
 #include <vector>
 
