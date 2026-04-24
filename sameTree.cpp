@@ -1,3 +1,11 @@
+/*
+Given the roots of two binary trees, p and q, write a function to check if they are identical.
+Two binary trees are considered the same only if:
+They are structurally identical.
+All corresponding nodes have the exact same value.
+Return true if they match, and false otherwise.
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
