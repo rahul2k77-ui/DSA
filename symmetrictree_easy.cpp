@@ -1,3 +1,10 @@
+/*
+Given the root of a binary tree, determine if it is symmetric (a mirror of itself around its center).
+Return true if it is symmetric, or false otherwise.
+A symmetric tree requires the left and right subtrees to be exact mirror reflections of each other.
+This means corresponding nodes must have identical values, and their child structures must also be mirrored.
+*/
+
 #include <iostream>
 #include <string>
 #include <queue>
