@@ -1,3 +1,9 @@
+/*
+Given the root of a binary tree, determine if it is height-balanced. 
+A binary tree is considered height-balanced if the absolute difference in height between the left and right subtrees of every node is no more than 1. 
+Return true if it is balanced, and false otherwise.
+*/
+
 #include <iostream>
 #include <vector>
 #include <string>
