@@ -1,3 +1,10 @@
+/*
+Given an $m \times n$ grid containing 0s, 1s, and 2s, find a path from top-left to bottom-right moving only right or down.
+Cell values yield specific (score, cost) pairs: 0 gives (0, 0), 1 gives (1, 1), and 2 gives (2, 1).
+Return the maximum total score achievable without the path's total cost exceeding a given integer $k$.
+If no such path exists within the cost limit, return -1.
+*/
+
 #include <iostream>
 #include <vector>
 #include <algorithm>
